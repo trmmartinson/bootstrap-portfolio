@@ -1,0 +1,42 @@
+
+body {
+    background-image:  url("light-grey-terrazzo.png");
+}
+
+.whiteteal {
+    background-color: teal;
+    color: white;
+}
+.tealwhite {
+    background-color: white;
+    color: teal;
+
+}
+.mainbox {
+    background-color:white;
+    height: 420px;
+    padding: 10px;
+    overflow: hidden;
+}
+.mypic {
+    padding: 30px;
+    padding-top: 0px;
+    float: left;
+}
+.floatme {
+    float: left;
+}
+.regp {
+    padding-left: 30px;
+}
+
+.footer {
+    background-color:grey;
+    text-align: center;
+    height: 90px;
+}
+.footer hr {
+    background-color: teal;
+    position: fixed;
+    height: 5px;
+}
